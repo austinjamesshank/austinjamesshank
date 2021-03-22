@@ -11,9 +11,11 @@ Currently learning:
 - C++
 
 Best way to contact is by email (either below):
-austinjamesshank@gmail.com
-ashank@alumni.unca.edu
+- austinjamesshank@gmail.com
+- ashank@alumni.unca.edu
 
 Cheers,
+
 Austin
+
 q223lopyh
