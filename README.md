@@ -1,6 +1,8 @@
 Welcome, I’m @austinjamesshank better known as Austin :)
 
 Development interests:
+- Performance optimization
+- Big Data processing
 - Data visualization
 - Real-time simulation
 - Virtual Reality development
