@@ -8,7 +8,7 @@ Development interests:
 - Virtual Reality development
 - Machine learning / AI
 - Citizen-science
-- Maximizing automation
+- Automation
 
 Currently learning:
 - Languages: C, C++
