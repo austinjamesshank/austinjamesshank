@@ -1,21 +1,26 @@
 Welcome, I’m @austinjamesshank better known as Austin :)
 
 Development interests:
+- Automation
 - Machine learning / AI
 - Big Data processing
 - Data visualization
 - Real-time simulation
 - Virtual Reality development
 - Citizen-science
-- Automation
 
-Currently learning:
-- Languages: C, C++
-- Docker
-- Kubernetes
+Personal interests:
+- Community development
+- Sports and fitness
+- Video games
+- Music production
+- Photography
+
+Favorite languages:
+- Python
+- Cache M
 
 Best way to contact is by email (either below):
-- ashank@unca.edu
 - austinjamesshank@gmail.com
 - ashank@alumni.unca.edu
 
